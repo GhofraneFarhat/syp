@@ -28,7 +28,7 @@ class Play extends StatelessWidget {
           ),
           child: Stack(children: [
             Column(
-              mainAxisAlignment: MainAxisAlignment.center,//
+              mainAxisAlignment: MainAxisAlignment.center,
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
                 Center(
